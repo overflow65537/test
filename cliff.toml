@@ -1,6 +1,6 @@
 [remote.github]
-owner = "SweetSmellFox"
-repo = "MFAWPF"
+owner = "overflow65537"
+repo = "test"
 
 [git]
 # parse the commits based on https://www.conventionalcommits.org
@@ -39,7 +39,7 @@ tag_pattern = "v[0-9].*"
 # regex for skipping tags
 skip_tags = "beta|alpha"
 # regex for ignoring tags
-ignore_tags = "rc|v2.1.0|v2.1.1"
+ignore_tags = "rc"
 # sort the tags topologically
 topo_order = false
 # sort the commits inside sections by oldest/newest order
